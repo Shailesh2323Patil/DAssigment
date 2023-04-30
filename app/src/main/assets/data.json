@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "type": "Banner",
+      "image": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1682512653_1680x320_256_GB.jpg"
+    },
+    {
+      "type": "List",
+      "list": [
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491278308/priya-fortified-with-vitamin-a-d-refined-sunflower-oil-1-l-product-images-o491278308-p491278308-0-202203170524.jpg",
+          "name": "Priya Refined Oil",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491504124/super-sarvottam-physically-refined-rice-bran-oil-1-l-product-images-o491504124-p491504124-0-202210041735.jpg",
+          "name": "Survottam",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/490012719/gemini-refined-sunflower-oil-1-l-product-images-o490012719-p490012719-0-202203151822.jpg",
+          "name": "Gemini",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        }
+      ]
+    },
+    {
+      "type": "Grid",
+      "grid": "2",
+      "category": "Vegetables",
+      "list": [
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/590003516/potato-per-kg-product-images-o590003516-p590003516-0-202203170642.jpg",
+          "name": "Potato",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/590001266/sweet-corn-1-pc-approx-250-g-450-g-product-images-o590001266-p590001266-0-202203170359.jpg",
+          "name": "Sweet Corn",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/590000091/tomato-country-1-kg-product-images-o590000091-p590000091-0-202203151014.jpg",
+          "name": "Tomato",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/590003515/onion-1-kg-product-images-o590003515-p590003515-0-202203170724.jpg",
+          "name": "Onion",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        }
+      ]
+    },
+    {
+      "type": "Grid",
+      "grid": "3",
+      "category": "Dairy",
+      "list": [
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491582577/amul-kool-kesar-flavoured-milk-180-ml-bottle-product-images-o491582577-p491582577-0-202203152258.jpg",
+          "name": "Amul Cool",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/490001392/amul-butter-500-g-carton-product-images-o490001392-p490001392-0-202203152128.jpg",
+          "name": "Amul Butter",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/490010311/amul-taaza-homogenised-toned-milk-1-l-tetra-pak-product-images-o490010311-p490010311-0-202203152257.jpg",
+          "name": "Amul Tazza",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/492642507/sunfeast-dark-fantasy-belgian-chocolate-shake-300-ml-pet-bottle-product-images-o492642507-p591189469-0-202203231314.jpg",
+          "name": "Dark Fantacy",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/492362357/parle-agro-smoodh-toffee-caramel-milkshake-85-ml-tetra-pak-product-images-o492362357-p590707034-0-202203231315.jpg",
+          "name": "Smoodh",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491298071/nestle-everyday-dairy-whitener-15-g-pouch-product-images-o491298071-p491298071-0-202303301323.jpg",
+          "name": "Nestle",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        }
+      ]
+    },
+    {
+      "type": "Grid",
+      "grid": "4",
+      "category": "Buscits & Cookies",
+      "list": [
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491335633/parle-g-gold-biscuits-1-kg-product-images-o491335633-p491335633-0-202303221149.jpg",
+          "name": "Parle",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491373488/britannia-nutrichoice-hi-fibre-digestive-biscuits-1-kg-product-images-o491373488-p491373488-0-202209281320.jpg",
+          "name": "Nutri Choice",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/490876695/britannia-treat-jim-jam-cream-sandwich-biscuits-138-g-product-images-o490876695-p490876695-0-202209281319.jpg",
+          "name": "Jim Jam",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-0-202205301919.jpg",
+          "name": "Dark Famctacy",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/490005349/britannia-bourbon-the-original-cream-biscuits-150-g-product-images-o490005349-p490005349-0-202203150315.jpg",
+          "name": "Bour Born",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/492578328/parle-hide-seek-4-fun-flavours-choco-chip-creme-sandwich-biscuits-400-g-product-images-o492578328-p591001086-0-202203170238.jpg",
+          "name": "Hide & Sick",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491502849/sunfeast-mom-s-magic-cashew-almond-biscuits-584-g-product-images-o491502849-p491502849-0-202303251223.jpg",
+          "name": "Mom Magic",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491695463/britannia-good-day-cashew-biscuits-1-kg-product-images-o491695463-p590116903-0-202203150315.jpg",
+          "name": "Good Day",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491587136/britannia-tiger-krunch-chocochips-biscuits-combo-pack-400-g-product-images-o491587136-p590032638-0-202203170231.jpg",
+          "name": "Tiger",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491587134/britannia-milk-bikis-biscuits-500-g-product-images-o491587134-p491587134-0-202203170354.jpg",
+          "name": "Milk Bikis",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/490353645/britannia-marie-gold-biscuits-250-g-product-images-o490353645-p490353645-0-202203170207.jpg",
+          "name": "Marie Gold",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491696496/cadbury-oreo-original-chocolatey-sandwich-biscuits-481-25-g-product-images-o491696496-p590110608-0-202304201900.jpg",
+          "name": "Oreo",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491587135/britannia-50-50-maska-chaska-biscuits-300-g-product-images-o491587135-p590033900-0-202209151506.jpg",
+          "name": "50-50",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491264336/britannia-classic-little-hearts-biscuits-75-g-product-images-o491264336-p491264336-0-202203142043.jpg",
+          "name": "Little Hearts",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/490000415/parle-monaco-salted-biscuits-200-g-product-images-o490000415-p490000415-0-202203170634.jpg",
+          "name": "Moneco",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "image": "https://www.jiomart.com/images/product/600x600/491439007/parle-krack-jack-biscuits-400-g-product-images-o491439007-p491439007-0-202203151355.jpg",
+          "name": "Krack Jack",
+          "value": "VALUE",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        }
+      ]
+    },
+    {
+      "type": "Banner",
+      "image": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1682512653_1680x320_256_GB.jpg"
+    },
+    {
+      "type": "Banner",
+      "image": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1682512653_1680x320_256_GB.jpg"
+    },
+    {
+      "type": "Banner",
+      "image": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1682512653_1680x320_256_GB.jpg"
+    },
+    {
+      "type": "Banner",
+      "image": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1682618276_Summer_Deals_on_Dry_Fruits.jpg"
+    }
+  ]
+}

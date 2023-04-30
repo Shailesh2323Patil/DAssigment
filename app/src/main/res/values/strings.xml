@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DMartAssignment</string>
+    <string name="fragment_image">Assignment 1</string>
+    <string name="fragment_list">Assignment 2</string>
+</resources>
