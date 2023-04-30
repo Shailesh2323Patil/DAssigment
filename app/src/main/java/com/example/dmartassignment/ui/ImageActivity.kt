@@ -11,6 +11,7 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.request.target.CustomTarget
 import com.example.dmartassignment.R
 import com.example.dmartassignment.databinding.ActivityImageBinding
+import com.example.dmartassignment.util.AppUtil
 
 
 class ImageActivity : AppCompatActivity() {
@@ -35,13 +36,13 @@ class ImageActivity : AppCompatActivity() {
         //var url = "https://www.jiomart.com/images/product/600x750/469195018_coral/typographic-print-slim-fit-crew-neck-t-shirt-model-469195018_coral-0-202304120553.jpg"
         //var url = "https://www.jiomart.com/images/cms/aw_rbslider/slides/1682618276_Summer_Deals_on_Dry_Fruits.jpg"
 
-        loadImage(
+        loadImageData(
             imageUrl = url,
             imageView = binding.imgData
         )
     }
 
-    private fun loadImage(imageUrl : String, imageView : ImageView) {
+    private fun loadImageData(imageUrl : String, imageView : ImageView) {
         Glide.with(this)
             .asBitmap()
             .load(imageUrl)
@@ -69,19 +70,14 @@ class ImageActivity : AppCompatActivity() {
                     params.height = heightDp.toInt()
                     binding.imgData.layoutParams = params
 
-                    loadImageData(imageUrl, imageView)
+                    AppUtil.loadImage(
+                        imageUrl = imageUrl,
+                        imageView = imageView,
+                        context = this@ImageActivity
+                    )
                 }
 
                 override fun onLoadCleared(placeholder: Drawable?) {}
             })
-    }
-
-    private fun loadImageData(imageUrl : String, imageView : ImageView) {
-        Glide.with(this)
-            .asBitmap()
-            .load(imageUrl)
-            .placeholder(R.drawable.place_holder)
-            .error(R.drawable.place_holder)
-            .into(imageView)
     }
 }

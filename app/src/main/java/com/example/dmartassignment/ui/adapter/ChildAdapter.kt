@@ -11,6 +11,7 @@ import com.example.dmartassignment.databinding.ItemGridBinding
 import com.example.dmartassignment.databinding.ItemListBinding
 import com.example.dmartassignment.model.DataItemType
 import com.example.dmartassignment.request.Item
+import com.example.dmartassignment.util.AppUtil
 
 class ChildAdapter(private val viewType: Int,
                    private val itemList: MutableList<Item>,
@@ -66,9 +67,10 @@ class ChildAdapter(private val viewType: Int,
             itemListBinding.txtValue.text = item.value.toString()
             itemListBinding.txtDescription.text = item.description.toString()
 
-            loadImage(
+            AppUtil.loadImage(
                 imageUrl = item.image.toString(),
-                imageView = itemListBinding.imageView
+                imageView = itemListBinding.imageView,
+                context = context
             )
         }
     }
@@ -77,18 +79,11 @@ class ChildAdapter(private val viewType: Int,
         : RecyclerView.ViewHolder(itemGridBinding.root)
     {
         fun bindGridView(item : Item) {
-            loadImage(
+            AppUtil.loadImage(
                 imageUrl = item.image.toString(),
-                imageView = itemGridBinding.imageView
+                imageView = itemGridBinding.imageView,
+                context = context
             )
         }
-    }
-
-    private fun loadImage(imageUrl : String, imageView : ImageView) {
-        Glide.with(context)
-            .load(imageUrl)
-            .placeholder(R.drawable.place_holder)
-            .error(R.drawable.place_holder)
-            .into(imageView);
     }
 }
