@@ -25,7 +25,7 @@
                 android:id="@+id/image_view"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:scaleType="fitXY"
+                android:scaleType="fitCenter"
                 app:layout_constraintHorizontal_weight="1"
                 android:layout_margin="8dp"
                 app:layout_constraintStart_toStartOf="parent"
